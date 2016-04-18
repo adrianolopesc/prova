@@ -4,14 +4,14 @@ Este é um projeto de um site que o administrador edita os menus e os conteúdos
 
 # Instruções para Instalação
 
-1- Copiar os arquivos desse projeto para a pasta no servidor com IIS (com ASP instalado) que ficará hospedado o site.
-2- Criar um site no IIS apontando para esta pasta.
-3- Restaurar o banco de dados (arquivo prova.bak na pasta banco) no servidor de SQL Server.
-4- Configurar o arquivo config/db.asp com os parametros de configuração do servidor de banco.
-5- Acessar o site via navegador http://servidor/site
-6- O usuário se senha padrão para acesso ao sistema é:
-    - Login: admin
-    - Senha: adm123
+- Copiar os arquivos desse projeto para a pasta no servidor com IIS (com ASP instalado) que ficará hospedado o site.
+- Criar um site no IIS apontando para esta pasta.
+- Restaurar o banco de dados (arquivo prova.bak na pasta banco) no servidor de SQL Server.
+- Configurar o arquivo config/db.asp com os parametros de configuração do servidor de banco.
+- Acessar o site via navegador http://servidor/site
+- O usuário se senha padrão para acesso ao sistema é:
+- Login: admin
+- Senha: adm123
 
 
 # Sobre a Ferramenta
